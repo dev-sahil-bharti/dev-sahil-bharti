@@ -101,6 +101,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dev-sahil-bharti&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/sah912?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
+</div>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/dev-sahil-bharti/dev-sahil-bharti/output/snake.svg" alt="Snake animation" />
 </div>
