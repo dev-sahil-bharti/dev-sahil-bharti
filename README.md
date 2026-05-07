@@ -9,7 +9,9 @@
 [![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil.884062@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B6.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-bharti-995724329/)
 ![Profile Views](https://komarev.com/ghpvc/?username=dev-sahil-bharti&label=Views&color=00D9FF&style=for-the-badge)
-
+<a href="https://sahilbharti.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Projects-blue?style=for-the-badge" />
+</a>
 </div>
 
 <!-- ABOUT ME SECTION -->
